@@ -10,7 +10,7 @@ A screenshot:
 
 A video:
 
-[Click here to wath the rendered video (1min, 40MB)](screenshots/vid.mp4)
+[Click here to watch the rendered video (1min, 40MB)](screenshots/vid.mp4)
 
 ## Features
 
