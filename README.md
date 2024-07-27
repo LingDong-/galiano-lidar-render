@@ -8,6 +8,9 @@ A screenshot:
 
 ![](screenshots/000.png)
 
+A video:
+
+<video src="screenshots/vid.mp4"></video>
 
 ## Features
 
