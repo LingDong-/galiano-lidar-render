@@ -1,6 +1,6 @@
 # galiano-lidar-render
 
-Semi-realistic rendering of LiDAR data from https://lidar.gov.bc.ca/ of Galiano Island, BC, Canada. The project is done in 2 days at [Gradient Retreat](https://www.gradientretreat.com/) on the island in July 2024.
+Semi-realistic rendering of LiDAR data from https://lidar.gov.bc.ca/ of the entire Galiano Island, BC, Canada. The project is done in 2 days at [Gradient Retreat](https://www.gradientretreat.com/) on the island in July 2024.
 
 Data processing is done in C and python, and rendering is done with openFrameworks. The conversion of the coordinate system to lat/long and cartesian was by Erik Strand (https://github.com/erikstrand/galiano).
 
